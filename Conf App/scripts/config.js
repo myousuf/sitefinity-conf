@@ -1,0 +1,1 @@
+var websiteUrl = "http://samplesite.indi",moduleName = "Conference",applicationId = "329a12de-3277-63f4-91f8-ff0000c12b5f",moduleProvider = "OpenAccessProvider",moduleDescription = "",everliveAPIKey = "",googleMapsApiV3Key = "";everliveServiceUrl = "api.everlive.com";everliveServiceSchema = "http";everliveRealm = "https://api.everlive.com";enableGeoLocationSearch = "True";
